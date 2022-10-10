@@ -1,0 +1,11 @@
+.option {
+  background-color: white;
+  border: 0.1px solid rgb(219, 217, 217);
+  padding: 1.5rem;
+}
+.option p {
+  margin: 0px;
+}
+.option:hover {
+  background-color: rgb(244, 244, 221);
+}
