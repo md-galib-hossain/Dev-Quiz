@@ -19,4 +19,5 @@ const Question = (props) => {
   );
 };
 // kaj kortisilam
+// video 52-5
 export default Question;
