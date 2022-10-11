@@ -5,4 +5,5 @@
 • Using that ip I make a dynamic routing for going to quiz pages. In quiz page There are questions and answer options which loaded from api.
 • If someone click wrong answer/right answer a toast will be  showed with result.
 • I have added an Eye icon if someone click on this icon, will be able to see the correct answer.
+• I have added a statistic chart which will show the total number of questions categorised by name
 • I have added a blog where there are 3 questions and also answers
