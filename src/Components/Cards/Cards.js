@@ -6,7 +6,7 @@ const Cards = ({ quiz }) => {
   const { id, name, logo, total } = quiz;
 
   return (
-    <div className="col-md-3 col-lg-4 gy-5">
+    <div className="col-md-6 col-lg-4 col-sm-12 gy-5 ">
       <div className="card card-modify">
         <img src={logo} className="card-img-top" alt="..." />
         <div className="card-body">
