@@ -1,3 +1,7 @@
 div img {
   width: 100%;
 }
+.child {
+  margin: auto;
+  width: 50%;
+}
