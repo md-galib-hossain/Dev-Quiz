@@ -7,6 +7,8 @@ const Home = () => {
 
   return (
     <div className="container">
+      <h2>Quiz Practice for React Developers</h2>
+
       <div className="row">
         {quizes.data.map((quiz) => (
           <Cards key={quiz.id} quiz={quiz}></Cards>
