@@ -1,7 +1,7 @@
 import React from "react";
 
 const Homeonly = () => {
-  return <div>hahahaha</div>;
+  return <div></div>;
 };
 
 export default Homeonly;
