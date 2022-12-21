@@ -10,11 +10,11 @@ const Question = (props) => {
     toast(correctAnswer);
   };
   return (
-    <div className="quesDiv container">
+    <div className="quesDiv min-h-max container">
       <div className="row">
         <div className="col-12">
-          <p>{question}</p>
-          <button className="btn" onClick={showAnswer}>
+          <p>{question.slice(3, -4)}</p>
+          <button className="btn my-2" onClick={showAnswer}>
             <i class="fa-solid fa-eye"></i>
           </button>
         </div>
